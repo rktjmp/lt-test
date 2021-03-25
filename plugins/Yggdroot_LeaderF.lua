@@ -3,6 +3,7 @@ local lush = require "lush"
 local Yggdroot_LeaderF = lush(function()
   -- vim.g.Lf_StlColorscheme = ''
   return {
+    -- Some random patch to apply
     -- Lf_hl_match {},
     -- Lf_hl_match0 {},
     -- Lf_hl_match1 {},
